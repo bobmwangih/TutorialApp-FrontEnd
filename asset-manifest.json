@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/TutorialApp-FrontEnd/static/css/main.31f06ac4.chunk.css",
+    "main.js": "/TutorialApp-FrontEnd/static/js/main.62659d36.chunk.js",
+    "main.js.map": "/TutorialApp-FrontEnd/static/js/main.62659d36.chunk.js.map",
+    "runtime-main.js": "/TutorialApp-FrontEnd/static/js/runtime-main.cbccbcc1.js",
+    "runtime-main.js.map": "/TutorialApp-FrontEnd/static/js/runtime-main.cbccbcc1.js.map",
+    "static/css/2.73a4b9c4.chunk.css": "/TutorialApp-FrontEnd/static/css/2.73a4b9c4.chunk.css",
+    "static/js/2.552815c9.chunk.js": "/TutorialApp-FrontEnd/static/js/2.552815c9.chunk.js",
+    "static/js/2.552815c9.chunk.js.map": "/TutorialApp-FrontEnd/static/js/2.552815c9.chunk.js.map",
+    "index.html": "/TutorialApp-FrontEnd/index.html",
+    "static/css/2.73a4b9c4.chunk.css.map": "/TutorialApp-FrontEnd/static/css/2.73a4b9c4.chunk.css.map",
+    "static/css/main.31f06ac4.chunk.css.map": "/TutorialApp-FrontEnd/static/css/main.31f06ac4.chunk.css.map",
+    "static/js/2.552815c9.chunk.js.LICENSE.txt": "/TutorialApp-FrontEnd/static/js/2.552815c9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cbccbcc1.js",
+    "static/css/2.73a4b9c4.chunk.css",
+    "static/js/2.552815c9.chunk.js",
+    "static/css/main.31f06ac4.chunk.css",
+    "static/js/main.62659d36.chunk.js"
+  ]
+}
